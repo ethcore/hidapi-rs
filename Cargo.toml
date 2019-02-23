@@ -17,4 +17,5 @@ documentation = "https://beta.docs.rs/hidapi"
 libc = "0.2.15"
 
 [build-dependencies]
+autotools = "0.2"
 cc = "1.0"

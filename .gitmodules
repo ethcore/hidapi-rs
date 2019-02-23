@@ -1,3 +1,6 @@
 [submodule "etc/hidapi"]
 	path = etc/hidapi
 	url = https://github.com/paritytech/hidapi.git
+[submodule "etc/eudev"]
+	path = etc/eudev
+	url = https://github.com/gentoo/eudev.git
